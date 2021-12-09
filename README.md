@@ -21,3 +21,7 @@ Usage
 ---
 
 `npm run test`
+
+Tests result:
+
+![image](https://user-images.githubusercontent.com/13368066/145398356-87e67551-bc3d-4a13-b123-5f89baea2f3c.png)
