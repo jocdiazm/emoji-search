@@ -16,3 +16,8 @@ Usage
 ---
 
 `npm start`
+
+**Tests**
+---
+
+`npm run test`
